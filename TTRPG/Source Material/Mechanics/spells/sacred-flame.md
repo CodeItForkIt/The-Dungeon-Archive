@@ -1,0 +1,23 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-spell
+tags:
+- compendium/src/5e/phb
+- spell/level/cantrip
+- spell/school/evocation
+aliases: ["Sacred Flame"]
+---
+# Sacred Flame
+%%-- Embedded content starts on the next line. --%%
+*cantrip, Evocation*  
+
+- **Casting time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+
+Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take `1d8` radiant damage. The target gains no benefit from cover for this saving throw.
+
+The spell's damage increases by `1d8` when you reach 5th level (`2d8`), 11th level (`3d8`), and 17th level (`4d8`).
+
+*Source: Player's Handbook p. 272, Dungeons & Dragons vs. Rick and Morty: Basic Rules p. 58. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

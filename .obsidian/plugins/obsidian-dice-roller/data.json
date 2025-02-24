@@ -1,0 +1,95 @@
+{
+  "position": "RIGHT",
+  "showFudgeIcon": false,
+  "rollLinksForTags": false,
+  "copyContentButton": true,
+  "customFormulas": [],
+  "displayFormulaForMod": true,
+  "displayResultsInline": false,
+  "displayFormulaAfter": false,
+  "escapeDiceMod": true,
+  "signed": false,
+  "displayLookupRoll": true,
+  "formulas": {},
+  "defaultRoll": 1,
+  "defaultFace": 100,
+  "renderer": true,
+  "renderAllDice": false,
+  "addToView": false,
+  "renderTime": 2000,
+  "colorfulDice": true,
+  "scaler": 1,
+  "diceColor": "#202020",
+  "textColor": "#ffffff",
+  "textFont": "Arial",
+  "showLeafOnStartup": true,
+  "narrativeSymbolSet": "Genesys",
+  "displayAsSymbols": false,
+  "displayAsEmbed": true,
+  "round": "None",
+  "initialDisplay": "Roll",
+  "icons": [
+    {
+      "id": "dice-roller-d4",
+      "shape": "Triangle",
+      "formula": "d4",
+      "text": "4"
+    },
+    {
+      "id": "dice-roller-d6",
+      "shape": "Square",
+      "formula": "d6",
+      "text": "6"
+    },
+    {
+      "id": "dice-roller-d8",
+      "shape": "Diamond",
+      "formula": "d8",
+      "text": "8"
+    },
+    {
+      "id": "dice-roller-d10",
+      "shape": "Diamond",
+      "formula": "d10",
+      "text": "10"
+    },
+    {
+      "id": "dice-roller-d12",
+      "shape": "Dodecahedron",
+      "formula": "d12",
+      "text": "12"
+    },
+    {
+      "id": "dice-roller-d20",
+      "shape": "Icosahedron",
+      "formula": "d20",
+      "text": "20"
+    },
+    {
+      "id": "dice-roller-d100",
+      "shape": "Circle",
+      "formula": "d%",
+      "text": "%"
+    }
+  ],
+  "showRenderNotice": true,
+  "diceModTemplateFolders": {},
+  "replaceDiceModInLivePreview": true,
+  "version": "11.4.1",
+  "viewResults": [
+    {
+      "result": "98",
+      "original": "100d% kh",
+      "resultText": "100d% kh\n[90d, 3d, 31d, 6d, 36d, 54d, 39d, 7d, 85d, 60d, 84d, 16d, 84d, 4d, 61d, 23d, 45d, 1d, 48d, 23d, 26d, 90d, 68d, 20d, 60d, 68d, 92d, 61d, 58d, 84d, 18d, 70d, 29d, 72d, 62d, 70d, 71d, 19d, 10d, 25d, 69d, 25d, 42d, 17d, 32d, 70d, 11d, 71d, 28d, 70d, 73d, 65d, 92d, 35d, 85d, 93d, 66d, 15d, 77d, 24d, 33d, 6d, 37d, 14d, 77d, 73d, 85d, 87d, 1d, 48d, 83d, 49d, 68d, 35d, 61d, 98, 47d, 81d, 67d, 47d, 72d, 37d, 70d, 26d, 62d, 10d, 85d, 34d, 39d, 25d, 59d, 68d, 75d, 95d, 13d, 81d, 75d, 38d, 66d, 23d]h",
+      "timestamp": 1738294080749,
+      "id": "yzsE-Nvz_t-W"
+    },
+    {
+      "result": "9",
+      "original": "1d20",
+      "resultText": "1d20\n[9]",
+      "timestamp": 1738621679733,
+      "id": "SNrNLCOtjmTV"
+    }
+  ]
+}

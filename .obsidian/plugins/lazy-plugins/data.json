@@ -1,0 +1,160 @@
+{
+  "dualConfigs": false,
+  "showConsoleLog": false,
+  "desktop": {
+    "shortDelaySeconds": 5,
+    "longDelaySeconds": 15,
+    "delayBetweenPlugins": 40,
+    "defaultStartupType": null,
+    "showDescriptions": true,
+    "plugins": {
+      "obsidian-admonition": {
+        "startupType": "instant"
+      },
+      "advanced-canvas": {
+        "startupType": "instant"
+      },
+      "obsidian-advanced-slides": {
+        "startupType": "instant"
+      },
+      "table-editor-obsidian": {
+        "startupType": "instant"
+      },
+      "obsidian-annotator": {
+        "startupType": "instant"
+      },
+      "aprils-automatic-timelines": {
+        "startupType": "instant"
+      },
+      "obsidian-banners": {
+        "startupType": "instant"
+      },
+      "calendar": {
+        "startupType": "instant"
+      },
+      "calendarium": {
+        "startupType": "instant"
+      },
+      "obsidian-custom-frames": {
+        "startupType": "instant"
+      },
+      "obsidian-day-planner": {
+        "startupType": "instant"
+      },
+      "obsidian-dialogue-plugin": {
+        "startupType": "instant"
+      },
+      "obsidian-dice-roller": {
+        "startupType": "instant"
+      },
+      "editing-toolbar": {
+        "startupType": "instant"
+      },
+      "obsidian-emoji-toolbar": {
+        "startupType": "instant"
+      },
+      "fantasy-content-generator": {
+        "startupType": "instant"
+      },
+      "obsidian-5e-statblocks": {
+        "startupType": "instant"
+      },
+      "folder-notes": {
+        "startupType": "instant"
+      },
+      "obsidian-view-mode-by-frontmatter": {
+        "startupType": "instant"
+      },
+      "gemmy": {
+        "startupType": "instant"
+      },
+      "obsidian-git": {
+        "startupType": "disabled"
+      },
+      "highlightr-plugin": {
+        "startupType": "instant"
+      },
+      "obsidian-icon-folder": {
+        "startupType": "instant"
+      },
+      "image-converter": {
+        "startupType": "instant"
+      },
+      "obsidian-importer": {
+        "startupType": "instant"
+      },
+      "ink": {
+        "startupType": "instant"
+      },
+      "obsidian-kanban": {
+        "startupType": "instant"
+      },
+      "obsidian-leaflet-plugin": {
+        "startupType": "instant"
+      },
+      "make-md": {
+        "startupType": "instant"
+      },
+      "obsidian-meta-bind-plugin": {
+        "startupType": "instant"
+      },
+      "obsidian-mind-map": {
+        "startupType": "instant"
+      },
+      "omnisearch": {
+        "startupType": "instant"
+      },
+      "pane-relief": {
+        "startupType": "instant"
+      },
+      "obsidian-projects": {
+        "startupType": "instant"
+      },
+      "quickadd": {
+        "startupType": "instant"
+      },
+      "obsidian-regex-pipeline": {
+        "startupType": "instant"
+      },
+      "image-window": {
+        "startupType": "instant"
+      },
+      "solo-rpg-toolkit": {
+        "startupType": "instant"
+      },
+      "obsidian-style-settings": {
+        "startupType": "instant"
+      },
+      "supercharged-links-obsidian": {
+        "startupType": "instant"
+      },
+      "obsidian-tasks-plugin": {
+        "startupType": "instant"
+      },
+      "templater-obsidian": {
+        "startupType": "disabled"
+      },
+      "tenki": {
+        "startupType": "instant"
+      },
+      "obsidian-text-format": {
+        "startupType": "instant"
+      },
+      "obsidian-textgenerator-plugin": {
+        "startupType": "instant"
+      },
+      "various-complements": {
+        "startupType": "instant"
+      },
+      "vertical-tabs": {
+        "startupType": "disabled"
+      },
+      "dataview": {
+        "startupType": "instant"
+      },
+      "initiative-tracker": {
+        "startupType": "instant"
+      }
+    }
+  }
+}

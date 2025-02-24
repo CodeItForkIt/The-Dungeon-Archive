@@ -1,0 +1,638 @@
+{
+  "main": {
+    "id": "0ac018f4845b89ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "59c2948ddf49a9f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bb98b746f78b21c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Realmatic Theory - The Coppermind - 17th Shard",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Realmatic Theory - The Coppermind - 17th Shard.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Realmatic Theory - The Coppermind - 17th Shard\"}",
+                  "eState": "{\"scroll\":11.542735042735043}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Arc C - Into the Valley",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TTRPG/Campaigns/Curse-of-Strahd-Reloaded-main/Act I - Into the Mists/Arc C - Into the Valley.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Arc C - Into the Valley\"}",
+                  "eState": "{\"scroll\":23.5989010989011}"
+                },
+                {
+                  "title": "minotaur-mpmm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TTRPG/Source Material/Mechanics/races/minotaur-mpmm.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"minotaur-mpmm\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "aasimar-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TTRPG/Source Material/Mechanics/races/aasimar-xphb.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"aasimar-xphb\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "races",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TTRPG/Source Material/Mechanics/races/races.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"races\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "raptor-mistral-hwcs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TTRPG/Source Material/Mechanics/races/raptor-mistral-hwcs.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"raptor-mistral-hwcs\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "raptor-maran-hwcs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TTRPG/Source Material/Mechanics/races/raptor-maran-hwcs.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"raptor-maran-hwcs\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "orc-dmg",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TTRPG/Source Material/Mechanics/races/orc-dmg.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"orc-dmg\"}",
+                  "eState": "{\"scroll\":10.8}"
+                },
+                {
+                  "title": "naga-psa",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TTRPG/Source Material/Mechanics/races/naga-psa.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"naga-psa\"}",
+                  "eState": "{\"scroll\":32.81818181818182}"
+                },
+                {
+                  "title": "minotaur-mpmm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TTRPG/Source Material/Mechanics/races/minotaur-mpmm.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"minotaur-mpmm\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "owlin-scc",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TTRPG/Source Material/Mechanics/races/owlin-scc.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"owlin-scc\"}",
+                  "eState": "{\"scroll\":8.540983606557377}"
+                },
+                {
+                  "title": "minotaur-mpmm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TTRPG/Source Material/Mechanics/races/minotaur-mpmm.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"minotaur-mpmm\"}",
+                  "eState": "{\"scroll\":10.85}"
+                },
+                {
+                  "title": "owlin-scc",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TTRPG/Source Material/Mechanics/races/owlin-scc.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"owlin-scc\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "minotaur-mpmm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TTRPG/Source Material/Mechanics/races/minotaur-mpmm.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"minotaur-mpmm\"}",
+                  "eState": "{\"scroll\":4.732732732732733}"
+                },
+                {
+                  "title": "owlin-scc",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TTRPG/Source Material/Mechanics/races/owlin-scc.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"owlin-scc\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "minotaur-mpmm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TTRPG/Source Material/Mechanics/races/minotaur-mpmm.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"minotaur-mpmm\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "owlin-scc",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TTRPG/Source Material/Mechanics/races/owlin-scc.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"owlin-scc\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "raptor-maran-hwcs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TTRPG/Source Material/Mechanics/races/raptor-maran-hwcs.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"raptor-maran-hwcs\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "kalashtar-erlw",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TTRPG/Source Material/Mechanics/races/kalashtar-erlw.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"kalashtar-erlw\"}",
+                  "eState": "{\"scroll\":24.818181818181817}"
+                },
+                {
+                  "title": "kenku-mpmm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TTRPG/Source Material/Mechanics/races/kenku-mpmm.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"kenku-mpmm\"}",
+                  "eState": "{\"scroll\":22.11111111111111}"
+                },
+                {
+                  "title": "loxodon-ggr",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TTRPG/Source Material/Mechanics/races/loxodon-ggr.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"loxodon-ggr\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "lizardfolk-mpmm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TTRPG/Source Material/Mechanics/races/lizardfolk-mpmm.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"lizardfolk-mpmm\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "luma-hwcs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TTRPG/Source Material/Mechanics/races/luma-hwcs.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"luma-hwcs\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "luma-sera-hwcs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TTRPG/Source Material/Mechanics/races/luma-sera-hwcs.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"luma-sera-hwcs\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "minotaur-mpmm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TTRPG/Source Material/Mechanics/races/minotaur-mpmm.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"minotaur-mpmm\"}",
+                  "eState": "{\"scroll\":7.51951951951952}"
+                },
+                {
+                  "title": "centaur-mpmm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TTRPG/Source Material/Mechanics/races/centaur-mpmm.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"centaur-mpmm\"}",
+                  "eState": "{\"scroll\":21.6}"
+                },
+                {
+                  "title": "bullywug-dmg",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TTRPG/Source Material/Mechanics/races/bullywug-dmg.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"bullywug-dmg\"}",
+                  "eState": "{\"scroll\":4.876876876876877}"
+                },
+                {
+                  "title": "aasimar-protector-vgm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TTRPG/Source Material/Mechanics/races/aasimar-protector-vgm.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"aasimar-protector-vgm\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "aasimar-scourge-vgm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TTRPG/Source Material/Mechanics/races/aasimar-scourge-vgm.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"aasimar-scourge-vgm\"}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG/Campaigns/Curse-of-Strahd-Reloaded-main/Act I - Into the Mists/Arc B - Welcome to Barovia.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arc B - Welcome to Barovia"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f0314f5c259a3e46",
+    "type": "split",
+    "children": [
+      {
+        "id": "351ae2154af4162c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8afbdd68d721525c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1c57b41b2a82cb87",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "screen",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "386647e1e1176137",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "dd209b865a2252d4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "vertical-tabs",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "3a52cd67c3f15900",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "15db4ef545ae070a",
+    "type": "split",
+    "children": [
+      {
+        "id": "be79b8f0505561c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adec348314843542",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG/Dungeon Master Screen.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dungeon Master Screen"
+            }
+          },
+          {
+            "id": "39ad1475c6ac8e68",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "fb0cbba0659ae00c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "90e6434e392fa6b5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TTRPG/Source Material/Mechanics/books/dungeon-masters-guide-2024/01-chapter-1-the-basics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 01-chapter-1-the-basics"
+            }
+          },
+          {
+            "id": "5e1f7de8ba728dc1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TTRPG/Source Material/Mechanics/books/dungeon-masters-guide-2024/01-chapter-1-the-basics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 01-chapter-1-the-basics"
+            }
+          },
+          {
+            "id": "6cd4f368e6ec4f4e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "aea6c31f525a0dc5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TTRPG/Source Material/Mechanics/books/dungeon-masters-guide-2024/01-chapter-1-the-basics.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 01-chapter-1-the-basics"
+            }
+          },
+          {
+            "id": "bee99cdf3a2d68d8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "f7a88414f17bd423",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tenki",
+              "state": {},
+              "icon": "sun",
+              "title": "Tenki"
+            }
+          },
+          {
+            "id": "d0dc28d3b92864ce",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "horizontal",
+    "width": 486.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-custom-frames:Open Nephthor": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-regex-pipeline:Regex Rulesets": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "solo-rpg-toolkit:Solo RPG Toolkit": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "2bb98b746f78b21c",
+  "lastOpenFiles": [
+    "Tags/#clippings",
+    "Tags/#sandersonchat",
+    "Clippings/Realmatic Theory - The Coppermind - 17th Shard.md",
+    "TTRPG/Campaigns/Curse-of-Strahd-Reloaded-main/Act I - Into the Mists/Arc B - Welcome to Barovia.md",
+    "Clippings",
+    "size",
+    "environment",
+    "monster/type",
+    "monster",
+    "compendium/src/5e",
+    "compendium/src",
+    "compendium",
+    "TTRPG/Campaigns/Curse-of-Strahd-Reloaded-main/Act I - Into the Mists/Arc C - Into the Valley.md",
+    "TTRPG/Source Material/Mechanics/races/minotaur-mpmm.md",
+    "object/object.md",
+    "level/level.md",
+    "TTRPG/Source Material/Mechanics/races/aasimar-xphb.md",
+    "TTRPG/Source Material/Mechanics/races/races.md",
+    "TTRPG/Source Material/Mechanics/races/raptor-mistral-hwcs.md",
+    "TTRPG/Source Material/Mechanics/races/raptor-maran-hwcs.md",
+    "TTRPG/Source Material/Mechanics/races/orc-dmg.md",
+    "TTRPG/Source Material/Mechanics/races/naga-psa.md",
+    "TTRPG/Source Material/Mechanics/races/owlin-scc.md",
+    "TTRPG/Source Material/Mechanics/races/kalashtar-erlw.md",
+    "TTRPG/Source Material/Mechanics/races/kenku-mpmm.md",
+    "TTRPG/Source Material/Mechanics/races/loxodon-ggr.md",
+    "TTRPG/Source Material/Mechanics/races/lizardfolk-mpmm.md",
+    "TTRPG/Source Material/Mechanics/races/luma-hwcs.md",
+    "TTRPG/Source Material/Mechanics/races/luma-sera-hwcs.md",
+    "TTRPG/Source Material/Mechanics/races/centaur-mpmm.md",
+    "TTRPG/Source Material/Mechanics/races/bullywug-dmg.md",
+    "TTRPG/Source Material/Mechanics/races/aasimar-protector-vgm.md",
+    "TTRPG/Source Material/Mechanics/races/aasimar-scourge-vgm.md",
+    "TTRPG/Source Material/Mechanics/races/aasimar-fallen-vgm.md",
+    "TTRPG/Source Material/Mechanics/races/aasimar-dmg.md",
+    "Tags/#object+type+unknown",
+    "TTRPG/Source Material/PF2e/gm/canvas-gm-tables/_attachments/img-weapons-armor-shields.png",
+    "TTRPG/Source Material/PF2e/gm/canvas-gm-tables/_attachments/img-weapons-3.png",
+    "TTRPG/Source Material/PF2e/gm/canvas-gm-tables/_attachments/img-weapons-2.png",
+    "TTRPG/Source Material/PF2e/gm/canvas-gm-tables/_attachments/img-weapons-1.png",
+    "TTRPG/Source Material/PF2e/gm/canvas-gm-tables/_attachments/img-travel-tables.png",
+    "TTRPG/Source Material/PF2e/gm/canvas-gm-tables/_attachments/img-structure-tables.png",
+    "TTRPG/Source Material/PF2e/gm/canvas-gm-tables/_attachments/img-simple-hazards.png",
+    "TTRPG/Source Material/PF2e/gm/canvas-gm-tables/_attachments/img-move-skill-tables.png",
+    "TTRPG/Source Material/PF2e/gm/canvas-gm-tables/_attachments/img-miscellaneous-charts.png",
+    "TTRPG/Source Material/PF2e/gm/canvas-gm-tables/_attachments/img-item-bulk-tables.png",
+    "TTRPG/Source Material/PF2e/gm/canvas-gm-tables/game-master-tables.canvas",
+    "TTRPG/Source Material/D&D/adventures/baldurs-gate-descent-into-avernus/baldurs-gate-descent-into-avernus.canvas",
+    "TTRPG/Campaigns/BGDia-VEoR/BGDia-VEoR.canvas",
+    "TTRPG/Source Material/Mechanics/adventures/vecna-eve-of-ruin/vecna-eve-of-ruin.canvas",
+    "TTRPG/Source Material/Mechanics/adventures/baldurs-gate-descent-into-avernus/baldurs-gate-descent-into-avernus.canvas"
+  ]
+}

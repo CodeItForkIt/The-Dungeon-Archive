@@ -1,0 +1,132 @@
+{
+  "edges": [
+    {
+      "fromNode": "d2c02f312f363ba1",
+      "fromSide": "right",
+      "id": "cf1533a1ee2eaabb",
+      "toNode": "ec86d971516c43b0",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "ec86d971516c43b0",
+      "fromSide": "right",
+      "id": "f26d3b7639f9dec9",
+      "toNode": "5c446a2a56304aa8",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "5c446a2a56304aa8",
+      "fromSide": "bottom",
+      "id": "be8a2610288eea74",
+      "toNode": "e0f3302ca9c8c328",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "5c446a2a56304aa8",
+      "fromSide": "top",
+      "id": "01a635594eef64de",
+      "toNode": "ff0d0842a1d2bc7a",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "e0f3302ca9c8c328",
+      "fromSide": "right",
+      "id": "375053d5137d6a29",
+      "toNode": "5b8e518c7fce954b",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "ff0d0842a1d2bc7a",
+      "fromSide": "right",
+      "id": "6813e3ff83c1767e",
+      "toNode": "5b8e518c7fce954b",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "5b8e518c7fce954b",
+      "fromSide": "right",
+      "id": "20bb79690ed76e69",
+      "toNode": "cfdbb6466eb0d685",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "file": "TTRPG/Source Material/Mechanics/adventures/baldurs-gate-descent-into-avernus/02-chapter-1-a-tale-of-two-cities.md",
+      "height": 400,
+      "id": "d2c02f312f363ba1",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -1490,
+      "y": -200
+    },
+    {
+      "file": "TTRPG/Source Material/Mechanics/adventures/baldurs-gate-descent-into-avernus/03-chapter-2-elturel-has-fallen.md",
+      "height": 400,
+      "id": "ec86d971516c43b0",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -830,
+      "y": -200
+    },
+    {
+      "file": "TTRPG/Source Material/Mechanics/adventures/baldurs-gate-descent-into-avernus/04-chapter-3-avernus.md",
+      "height": 400,
+      "id": "5c446a2a56304aa8",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -150,
+      "y": -200
+    },
+    {
+      "file": "TTRPG/Source Material/Mechanics/adventures/baldurs-gate-descent-into-avernus/06-chapter-3-avernus-path-of-devils.md",
+      "height": 400,
+      "id": "e0f3302ca9c8c328",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -150,
+      "y": 380
+    },
+    {
+      "file": "TTRPG/Source Material/Mechanics/adventures/baldurs-gate-descent-into-avernus/05-chapter-3-avernus-path-of-demons.md",
+      "height": 400,
+      "id": "ff0d0842a1d2bc7a",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -150,
+      "y": -780
+    },
+    {
+      "file": "TTRPG/Source Material/Mechanics/adventures/baldurs-gate-descent-into-avernus/08-chapter-4-sword-of-zariel.md",
+      "height": 400,
+      "id": "5b8e518c7fce954b",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 450,
+      "y": -200
+    },
+    {
+      "file": "TTRPG/Source Material/Mechanics/adventures/baldurs-gate-descent-into-avernus/09-chapter-5-escape-from-avernus.md",
+      "height": 400,
+      "id": "cfdbb6466eb0d685",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 1090,
+      "y": -200
+    }
+  ]
+}

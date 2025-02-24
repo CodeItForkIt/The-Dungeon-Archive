@@ -1,0 +1,55 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-monster
+tags:
+- compendium/src/5e/vgm
+- monster/cr/1-4
+- monster/environment/grassland
+- monster/size/large
+- monster/type/beast
+statblock: inline
+aliases: ["Rothé"]
+---
+# [Rothé](Mechanics\bestiary\beast/rothe-vgm.md)
+*Source: Volo's Guide to Monsters p. 208, Chains of Asmodeus p. 48*  
+
+Ordinary rothé resemble musk oxen and have [darkvision](Mechanics/Rules/senses.md#Darkvision) out to a range of 30 feet.
+
+```statblock
+"name": "Rothé (VGM)"
+"size": "Large"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "10"
+"hp": !!int "15"
+"hit_dice": "2d10 + 4"
+"stats":
+- !!int "18"
+- !!int "10"
+- !!int "14"
+- !!int "2"
+- !!int "10"
+- !!int "4"
+"speed": "30 ft."
+"senses": "darkvision 30 ft., passive Perception 10"
+"languages": ""
+"cr": "1/4"
+"traits":
+- "desc": "If the rothé moves at least 20 feet straight toward a target and then hits\
+    \ it with a gore attack on the same turn, the target takes an extra 7 (2d6)\
+    \ piercing damage."
+  "name": "Charge"
+"actions":
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+    \ + 4) piercing damage."
+  "name": "Gore"
+"source":
+- "VGM"
+- "CoA"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/VGM/Rothe.webp"
+```
+^statblock
+
+## Environment
+
+grassland

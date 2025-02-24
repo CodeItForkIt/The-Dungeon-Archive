@@ -1,0 +1,16 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-item
+tags:
+- compendium/src/5e/phb
+- item/gear/trade-good
+- item/rarity/none
+aliases: 
+- "Linen (1 sq. yd.)"
+---
+# Linen (1 sq. yd.)
+*Trade good*  
+
+- **Cost**: 5 gp
+
+*Source: SRD 5.1 and the Basic Rules (2014)*

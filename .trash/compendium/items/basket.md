@@ -1,0 +1,19 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-item
+tags:
+- compendium/src/5e/phb
+- item/gear/
+- item/rarity/none
+aliases: 
+- "Basket"
+---
+# Basket
+*Adventuring gear*  
+
+- **Cost**: 4 sp
+- **Weight**: 2.0 lbs.
+
+A basket holds 2 cubic feet or 40 pounds of gear.
+
+*Source: SRD 5.1 and the Basic Rules (2014)*

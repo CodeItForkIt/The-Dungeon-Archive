@@ -1,0 +1,330 @@
+{
+  "edges": [
+    {
+      "fromNode": "9f1143aec745cd45",
+      "fromSide": "right",
+      "id": "3e765ed46cd18a1f",
+      "toNode": "f1a5b3a4a4ba7edb",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "f1a5b3a4a4ba7edb",
+      "fromSide": "right",
+      "id": "a3c526fc3559e936",
+      "toNode": "9adcf3d47f372fed",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "9adcf3d47f372fed",
+      "fromSide": "bottom",
+      "id": "98fa729597ec4bbf",
+      "toNode": "e7165c46913f837a",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "9adcf3d47f372fed",
+      "fromSide": "top",
+      "id": "5c4237789d2a772e",
+      "toNode": "e70ca8c548b0e9d2",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "e70ca8c548b0e9d2",
+      "fromSide": "right",
+      "id": "c6fa7f5dd917abe0",
+      "toNode": "20e4516740ac76ec",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "e7165c46913f837a",
+      "fromSide": "right",
+      "id": "de32ff043051b841",
+      "toNode": "20e4516740ac76ec",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "20e4516740ac76ec",
+      "fromSide": "right",
+      "id": "5bce94bedf23c387",
+      "toNode": "652bb0a08fcaa242",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "652bb0a08fcaa242",
+      "fromSide": "right",
+      "id": "1da97aa4f57646a9",
+      "toNode": "9eea05b945856ac0",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "9eea05b945856ac0",
+      "fromSide": "right",
+      "id": "10f9c5228f4d255a",
+      "toNode": "9e8dd6a9604a2f4f",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "9e8dd6a9604a2f4f",
+      "fromSide": "right",
+      "id": "4118907927c91732",
+      "toNode": "2a00b5ac8d622bcc",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "2a00b5ac8d622bcc",
+      "fromSide": "right",
+      "id": "226425ebbe323a9c",
+      "toNode": "e46082b12e7b089d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e46082b12e7b089d",
+      "fromSide": "right",
+      "id": "82bb4ee998cf7e58",
+      "toNode": "d26a6228c0626439",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d26a6228c0626439",
+      "fromSide": "right",
+      "id": "6778e4741f5c5e1b",
+      "toNode": "3b4deebcd40240bf",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3b4deebcd40240bf",
+      "fromSide": "right",
+      "id": "7b6673d58fedb82b",
+      "toNode": "def727b549c16dab",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "def727b549c16dab",
+      "fromSide": "right",
+      "id": "753cf261c6157001",
+      "toNode": "bab28219c9a3a300",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "bab28219c9a3a300",
+      "fromSide": "right",
+      "id": "14f4cf7b2d59c155",
+      "toNode": "92914cb66a907b0d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "92914cb66a907b0d",
+      "fromSide": "right",
+      "id": "6a805f3a8ea2ba2f",
+      "toNode": "8e2aaf402c7db07e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8e2aaf402c7db07e",
+      "fromSide": "right",
+      "id": "bd31b790b53366d2",
+      "toNode": "8a9eb92b031b4657",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "file": "TTRPG/Source Material/Mechanics/adventures/baldurs-gate-descent-into-avernus/02-chapter-1-a-tale-of-two-cities.md",
+      "height": 400,
+      "id": "9f1143aec745cd45",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -300,
+      "y": -180
+    },
+    {
+      "file": "TTRPG/Source Material/Mechanics/adventures/baldurs-gate-descent-into-avernus/03-chapter-2-elturel-has-fallen.md",
+      "height": 400,
+      "id": "f1a5b3a4a4ba7edb",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 360,
+      "y": -180
+    },
+    {
+      "file": "TTRPG/Source Material/Mechanics/adventures/baldurs-gate-descent-into-avernus/04-chapter-3-avernus.md",
+      "height": 400,
+      "id": "9adcf3d47f372fed",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 1040,
+      "y": -180
+    },
+    {
+      "file": "TTRPG/Source Material/Mechanics/adventures/baldurs-gate-descent-into-avernus/06-chapter-3-avernus-path-of-devils.md",
+      "height": 400,
+      "id": "e7165c46913f837a",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 1040,
+      "y": 400
+    },
+    {
+      "file": "TTRPG/Source Material/Mechanics/adventures/baldurs-gate-descent-into-avernus/05-chapter-3-avernus-path-of-demons.md",
+      "height": 400,
+      "id": "e70ca8c548b0e9d2",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 1040,
+      "y": -760
+    },
+    {
+      "file": "TTRPG/Source Material/Mechanics/adventures/baldurs-gate-descent-into-avernus/08-chapter-4-sword-of-zariel.md",
+      "height": 400,
+      "id": "20e4516740ac76ec",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 1640,
+      "y": -180
+    },
+    {
+      "file": "TTRPG/Source Material/Mechanics/adventures/baldurs-gate-descent-into-avernus/09-chapter-5-escape-from-avernus.md",
+      "height": 400,
+      "id": "652bb0a08fcaa242",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 2280,
+      "y": -180
+    },
+    {
+      "file": "TTRPG/Source Material/Mechanics/adventures/vecna-eve-of-ruin/02-chapter-1-return-from-neverdeath-graveyard.md",
+      "height": 400,
+      "id": "9eea05b945856ac0",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 2920,
+      "y": -180
+    },
+    {
+      "file": "TTRPG/Source Material/Mechanics/adventures/vecna-eve-of-ruin/03-chapter-2-the-wizards-three.md",
+      "height": 400,
+      "id": "9e8dd6a9604a2f4f",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3560,
+      "y": -180
+    },
+    {
+      "file": "TTRPG/Source Material/Mechanics/adventures/vecna-eve-of-ruin/04-chapter-3-the-lambent-zeniths-last-voyage.md",
+      "height": 400,
+      "id": "2a00b5ac8d622bcc",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 4160,
+      "y": -180
+    },
+    {
+      "file": "TTRPG/Source Material/Mechanics/adventures/vecna-eve-of-ruin/05-chapter-4-the-ruined-colossus.md",
+      "height": 400,
+      "id": "e46082b12e7b089d",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 4760,
+      "y": -180
+    },
+    {
+      "file": "TTRPG/Source Material/Mechanics/adventures/vecna-eve-of-ruin/06-chapter-5-death-house.md",
+      "height": 400,
+      "id": "d26a6228c0626439",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 5440,
+      "y": -180
+    },
+    {
+      "file": "TTRPG/Source Material/Mechanics/adventures/vecna-eve-of-ruin/07-chapter-6-night-of-blue-fire.md",
+      "height": 400,
+      "id": "3b4deebcd40240bf",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 6080,
+      "y": -180
+    },
+    {
+      "file": "TTRPG/Source Material/Mechanics/adventures/vecna-eve-of-ruin/08-chapter-7-tomb-of-wayward-souls.md",
+      "height": 400,
+      "id": "def727b549c16dab",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 6720,
+      "y": -180
+    },
+    {
+      "file": "TTRPG/Source Material/Mechanics/adventures/vecna-eve-of-ruin/09-chapter-8-the-dragon-queens-pride.md",
+      "height": 400,
+      "id": "bab28219c9a3a300",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 7400,
+      "y": -180
+    },
+    {
+      "file": "TTRPG/Source Material/Mechanics/adventures/vecna-eve-of-ruin/10-chapter-9-the-betrayer-revealed.md",
+      "height": 400,
+      "id": "92914cb66a907b0d",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 8040,
+      "y": -180
+    },
+    {
+      "file": "TTRPG/Source Material/Mechanics/adventures/vecna-eve-of-ruin/11-chapter-10-the-war-of-pandesmos.md",
+      "height": 400,
+      "id": "8e2aaf402c7db07e",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 8720,
+      "y": -180
+    },
+    {
+      "file": "TTRPG/Source Material/Mechanics/adventures/vecna-eve-of-ruin/12-chapter-11-eve-of-ruin.md",
+      "height": 400,
+      "id": "8a9eb92b031b4657",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 9360,
+      "y": -180
+    }
+  ]
+}

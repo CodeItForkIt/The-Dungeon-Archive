@@ -1,0 +1,14 @@
+{
+  "ITS@@breadcrumbs-block": false,
+  "ITS@@kanban-title-center": true,
+  "ITS@@kanban-minimal": true,
+  "ITS@@kanban-boxed": true,
+  "ITS@@accent-color": false,
+  "ITS@@slrvb-b": false,
+  "ITS@@slrvb-g": false,
+  "ITS@@s-d": false,
+  "ITS@@its-d": false,
+  "ITS@@select": "wotc-beyond",
+  "pane-relief@@pane-relief-pane-numbering": true,
+  "ITS@@writing-document": false
+}
