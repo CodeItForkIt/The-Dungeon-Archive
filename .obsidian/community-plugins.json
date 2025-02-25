@@ -22,7 +22,6 @@
   "obsidian-day-planner",
   "editing-toolbar",
   "obsidian-emoji-toolbar",
-  "obsidian-annotator",
   "highlightr-plugin",
   "quickadd",
   "gemmy",
@@ -45,5 +44,6 @@
   "make-md",
   "initiative-tracker",
   "dataview",
-  "obsidian-dice-roller"
+  "obsidian-dice-roller",
+  "obsidian-annotator"
 ]
