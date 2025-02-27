@@ -18,9 +18,9 @@ mapCalc1: NaN
 
 
 ```leaflet  
-id: MapCalcExample ### Must be unique with no spaces  
-image: [[Map - Regional map of Lampoteuo.png]] ### Link to the map image file. Do not add a ! in front of the image  
-bounds: [[0,0], [2048, 1642]] ### Size of the map in px Height_y, Width_x. Ignore 0,0  
+id: SwordCoast ### Must be unique with no spaces  
+image: [[RO-6420-4061.webp]] ### Link to the map image file. Do not add a ! in front of the image  
+bounds: [[0,0], [6420, ]] ### Size of the map in px Height_y, Width_x. Ignore 0,0  
 height: 850px ### Size of the leaflet embed in px on your screen  
 width: 95% ### Size of the leaflet embed in your note  
 lat: 1024 ### To center the map, make this half of the map height.  
