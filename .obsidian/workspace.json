@@ -304,7 +304,7 @@
             }
           },
           {
-            "id": "3a52cd67c3f15900",
+            "id": "e6e622d13373d277",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -544,9 +544,28 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
+          },
+          {
+            "id": "8ca311d0a0fa58ff",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -578,23 +597,25 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "solo-rpg-toolkit:Solo RPG Toolkit": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "2bb98b746f78b21c",
   "lastOpenFiles": [
+    "TTRPG/Dungeon Master Screen.md",
+    "Tags/#vehicle",
+    "Tags/#hazard",
+    "Tags/#spell",
+    "Tags/#reward",
+    "Tags/#race",
+    "Tags/#optional-feature",
+    "TTRPG/Campaigns/Curse-of-Strahd-Reloaded-main/Act I - Into the Mists/Arc B - Welcome to Barovia.md",
     "Tags/#clippings",
     "Tags/#sandersonchat",
     "Clippings/Realmatic Theory - The Coppermind - 17th Shard.md",
-    "TTRPG/Campaigns/Curse-of-Strahd-Reloaded-main/Act I - Into the Mists/Arc B - Welcome to Barovia.md",
     "Clippings",
     "size",
-    "environment",
-    "monster/type",
-    "monster",
-    "compendium/src/5e",
-    "compendium/src",
-    "compendium",
     "TTRPG/Campaigns/Curse-of-Strahd-Reloaded-main/Act I - Into the Mists/Arc C - Into the Valley.md",
     "TTRPG/Source Material/Mechanics/races/minotaur-mpmm.md",
     "object/object.md",
@@ -618,7 +639,6 @@
     "TTRPG/Source Material/Mechanics/races/aasimar-scourge-vgm.md",
     "TTRPG/Source Material/Mechanics/races/aasimar-fallen-vgm.md",
     "TTRPG/Source Material/Mechanics/races/aasimar-dmg.md",
-    "Tags/#object+type+unknown",
     "TTRPG/Source Material/PF2e/gm/canvas-gm-tables/_attachments/img-weapons-armor-shields.png",
     "TTRPG/Source Material/PF2e/gm/canvas-gm-tables/_attachments/img-weapons-3.png",
     "TTRPG/Source Material/PF2e/gm/canvas-gm-tables/_attachments/img-weapons-2.png",
