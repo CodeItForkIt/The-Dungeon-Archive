@@ -22,6 +22,7 @@
   "obsidian-day-planner",
   "editing-toolbar",
   "obsidian-emoji-toolbar",
+  "obsidian-annotator",
   "highlightr-plugin",
   "quickadd",
   "gemmy",
@@ -45,9 +46,7 @@
   "initiative-tracker",
   "dataview",
   "obsidian-dice-roller",
-<<<<<<< HEAD
-  "obsidian-git"
-=======
-  "obsidian-annotator"
->>>>>>> origin/main
+  "obsidian-git",
+  "obsidian42-brat",
+  "quick-links"
 ]
