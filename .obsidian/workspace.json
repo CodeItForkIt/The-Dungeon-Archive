@@ -11,16 +11,16 @@
             "id": "2bb98b746f78b21c",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
-                  "title": "untitled",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/untitled/untitled.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"untitled\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":113},\"to\":{\"line\":1,\"ch\":113}},\"scroll\":0}"
+                  "state": "{}",
+                  "eState": "{}"
                 },
                 {
-                  "state": "{}",
+                  "title": "The Gala",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TTRPG/Campaigns/War of the Elves/Act 1/The Gala.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Gala\"}",
                   "eState": "{}"
                 },
                 {
@@ -202,12 +202,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Campaigns/War of the Elves/Act 1/The Gala.md",
-                "mode": "preview",
+                "file": "TTRPG/Maps/Forgotten Realms/Untitled.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Gala"
+              "title": "Untitled"
             }
           }
         ]
@@ -619,11 +619,12 @@
   },
   "active": "2bb98b746f78b21c",
   "lastOpenFiles": [
+    "TTRPG/Campaigns/War of the Elves/Act 1/The Gala.md",
+    "TTRPG/Maps/Forgotten Realms/Untitled.md",
     "Clippings/untitled/untitled.md",
     "TTRPG/Maps/Forgotten Realms",
     "TTRPG/Maps",
     "Clippings/Forgotten Realms",
-    "TTRPG/Campaigns/War of the Elves/Act 1/The Gala.md",
     "Clippings/untitled",
     "TTRPG/Campaigns/Curse-of-Strahd-Reloaded-main/Act I - Into the Mists/Arc B - Welcome to Barovia.md",
     "Tags/#object",
