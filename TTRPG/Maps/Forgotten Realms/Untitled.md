@@ -1,6 +1,6 @@
 ---
-map_height_y: 2048
-map_width_x: 1642
+map_height_y: 6420
+map_width_x: 4061
 scale_pixels: 268
 scale_pixels_range: 25
 mapCalc1: NaN
@@ -21,8 +21,8 @@ mapCalc1: NaN
 id: SwordCoast ### Must be unique with no spaces  
 image: [[Attachments/RO-6420-4061.webp]] ### Link to the map image file. Do not add a ! in front of the image  
 bounds: [[0,0], [6420,4061]] ### Size of the map in px Height_y, Width_x. Ignore 0,0  
-height: 2000px ### Size of the leaflet embed in px on your screen  
-width: 200% ### Size of the leaflet embed in your note  
+height: 1000px ### Size of the leaflet embed in px on your screen  
+width: 120% ### Size of the leaflet embed in your note  
 lat: 3210 ### To center the map, make this half of the map height.  
 long: 2030.5 ### To center the map, make this half of the map width.  
 minZoom: -1.5 ### Controls how far away from the map you can zoom out. Hover over the target icon to see the current level.  
