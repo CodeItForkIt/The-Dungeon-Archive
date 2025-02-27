@@ -1,0 +1,28 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "height": 1580,
+      "id": "30673eed309eea81",
+      "label": "Act 1",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 2280,
+      "x": -600,
+      "y": -100
+    },
+    {
+      "file": "TTRPG/Campaigns/War of the Elves/Act 1/The Gala.md",
+      "height": 400,
+      "id": "ba9f964d8c4508ca",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -600,
+      "y": -80
+    }
+  ]
+}

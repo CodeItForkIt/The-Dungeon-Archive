@@ -313,8 +313,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -601,21 +600,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2bb98b746f78b21c",
+  "active": "8afbdd68d721525c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "TTRPG/Campaigns/Curse-of-Strahd-Reloaded-main/Act I - Into the Mists/Arc B - Welcome to Barovia.md",
+    "type/beast",
+    "type/aberration",
+    "type",
+    "monster/size",
+    "monster/cr",
+    "cr",
+    "TTRPG/Campaigns/War of the Elves/Act 1/The Gala.md",
+    "TTRPG/Campaigns/War of the Elves/War of the Elves.canvas",
+    "TTRPG/Campaigns/War of the Elves/Act 1",
+    "TTRPG/Campaigns/War of the Elves",
     "TTRPG/Dungeon Master Screen.md",
     "Tags/#vehicle",
     "Tags/#hazard",
-    "Tags/#spell",
-    "Tags/#reward",
-    "Tags/#race",
-    "Tags/#optional-feature",
-    "TTRPG/Campaigns/Curse-of-Strahd-Reloaded-main/Act I - Into the Mists/Arc B - Welcome to Barovia.md",
-    "Tags/#clippings",
-    "Tags/#sandersonchat",
     "Clippings/Realmatic Theory - The Coppermind - 17th Shard.md",
-    "Clippings",
-    "size",
     "TTRPG/Campaigns/Curse-of-Strahd-Reloaded-main/Act I - Into the Mists/Arc C - Into the Valley.md",
     "TTRPG/Source Material/Mechanics/races/minotaur-mpmm.md",
     "object/object.md",
@@ -637,8 +639,6 @@
     "TTRPG/Source Material/Mechanics/races/bullywug-dmg.md",
     "TTRPG/Source Material/Mechanics/races/aasimar-protector-vgm.md",
     "TTRPG/Source Material/Mechanics/races/aasimar-scourge-vgm.md",
-    "TTRPG/Source Material/Mechanics/races/aasimar-fallen-vgm.md",
-    "TTRPG/Source Material/Mechanics/races/aasimar-dmg.md",
     "TTRPG/Source Material/PF2e/gm/canvas-gm-tables/_attachments/img-weapons-armor-shields.png",
     "TTRPG/Source Material/PF2e/gm/canvas-gm-tables/_attachments/img-weapons-3.png",
     "TTRPG/Source Material/PF2e/gm/canvas-gm-tables/_attachments/img-weapons-2.png",
