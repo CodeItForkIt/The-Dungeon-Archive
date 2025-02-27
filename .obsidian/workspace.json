@@ -18,6 +18,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Sword Coast",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TTRPG/Maps/Forgotten Realms/Sword Coast.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Sword Coast\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":36,\"ch\":0}},\"scroll\":4.027777777777778}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TTRPG/Maps/Forgotten Realms/Baldur's Gate.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Sword Coast",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TTRPG/Maps/Forgotten Realms/Sword Coast.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Sword Coast\"}",
+                  "eState": "{\"scroll\":1.2}"
+                },
+                {
                   "title": "The Gala",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TTRPG/Campaigns/War of the Elves/Act 1/The Gala.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Gala\"}",
@@ -202,12 +220,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Maps/Forgotten Realms/Untitled.md",
+                "file": "TTRPG/Maps/Forgotten Realms/Baldur's Gate.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Baldur's Gate"
             }
           }
         ]
@@ -619,10 +637,12 @@
   },
   "active": "2bb98b746f78b21c",
   "lastOpenFiles": [
+    "TTRPG/Maps/Forgotten Realms/Sword Coast.md",
+    "TTRPG/Maps/Forgotten Realms/Baldur's Gate.md",
+    "Attachments/baldur-1676-1062.jpg",
     "Attachments/RO-6420-4061.webp",
     "Attachments",
     "TTRPG/Campaigns/War of the Elves/Act 1/The Gala.md",
-    "TTRPG/Maps/Forgotten Realms/Untitled.md",
     "Clippings/untitled/untitled.md",
     "TTRPG/Maps/Forgotten Realms",
     "TTRPG/Maps",
@@ -664,8 +684,6 @@
     "TTRPG/Source Material/PF2e/gm/canvas-gm-tables/_attachments/img-structure-tables.png",
     "TTRPG/Source Material/PF2e/gm/canvas-gm-tables/_attachments/img-simple-hazards.png",
     "TTRPG/Source Material/PF2e/gm/canvas-gm-tables/_attachments/img-move-skill-tables.png",
-    "TTRPG/Source Material/PF2e/gm/canvas-gm-tables/_attachments/img-miscellaneous-charts.png",
-    "TTRPG/Source Material/PF2e/gm/canvas-gm-tables/_attachments/img-item-bulk-tables.png",
     "TTRPG/Source Material/PF2e/gm/canvas-gm-tables/game-master-tables.canvas",
     "TTRPG/Source Material/D&D/adventures/baldurs-gate-descent-into-avernus/baldurs-gate-descent-into-avernus.canvas",
     "TTRPG/Campaigns/BGDia-VEoR/BGDia-VEoR.canvas",
