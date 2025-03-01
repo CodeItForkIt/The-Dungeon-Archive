@@ -154,6 +154,15 @@
       },
       "initiative-tracker": {
         "startupType": "instant"
+      },
+      "obsidian42-brat": {
+        "startupType": "instant"
+      },
+      "cmdr": {
+        "startupType": "instant"
+      },
+      "quick-links": {
+        "startupType": "instant"
       }
     }
   }
